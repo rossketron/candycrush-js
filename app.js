@@ -1,3 +1,5 @@
+import { DisjointSet } from './DisjointSet';
+
 document.addEventListener('DOMContentLoaded', () => {
   const grid = document.querySelector('.grid');
   const width = 8;
